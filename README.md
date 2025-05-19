@@ -2,15 +2,6 @@
 
 Website restoran fine dining yang responsif dibuat dengan HTML, CSS, dan JavaScript.
 
-
-## Daftar Isi
-- [Tentang](#tentang)
-- [Fitur](#fitur)
-- [Teknologi](#teknologi)
-- [Struktur Folder](#struktur-folder)
-- [Cara Menggunakan](#cara-menggunakan)
-- [Kustomisasi](#kustomisasi)
-
 ## Tentang
 
 Website ini dibuat untuk restoran fine dining La Élégance yang menampilkan suasana elegan, menu makanan, dan sistem pemesanan meja.
